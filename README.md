@@ -2,7 +2,7 @@
 - 👀 I’m interested in the best php project
 - 🌱 I’m currently learning php
 - 💞️ I’m looking to collaborate on T H E BEST P H P PROJECT
-- 📫 How to reach me ig @dev_maspro
+- 📫 How to reach me ig @thebestphpp
 
 <!---
 TBPthebestphp/TBPthebestphp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
